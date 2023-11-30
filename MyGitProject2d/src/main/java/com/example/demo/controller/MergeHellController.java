@@ -12,7 +12,7 @@ public class MergeHellController {
 	//ここに課題を書く。メソッド名変えてね。
 			Random random = new Random();
 			int i = random.nextInt(100);
-			System.out.println(i + "が出ました。");
+			System.out.println(i + 1 + "が出ました。");
 			
 		}
 }
